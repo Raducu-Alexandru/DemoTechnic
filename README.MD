@@ -16,3 +16,9 @@ python3 -m venv ./env
 source ./env/bin/activate
 pip3 install redis
 ```
+
+## Demo-uri
+
+1. Demo Structuri de date
+
+2. Demo Stocare obiect complex
